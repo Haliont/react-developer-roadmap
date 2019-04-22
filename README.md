@@ -1,4 +1,4 @@
-# Kostyan (React) Developer Roadmap
+# Kostyan Developer Roadmap
 [README in Chinese](README-CN.md)
 
 [README in Russian](README-RU.md)
